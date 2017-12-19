@@ -9,7 +9,7 @@ Let `a_0` be an integer. The, one of Collats problems asks if iterating:
 Always either 1 or 0 is returned for a positive a_0.
 
 ## Code
-You can found my answer [here](./src/collats.pl)  
+You can found my answer [here](./src/collatz.pl)  
 
 # Notes
 [1] Wolfram Knowledge: [Collatz Problem](http://mathworld.wolfram.com/CollatzProblem.html)  
